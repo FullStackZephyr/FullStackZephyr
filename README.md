@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FullStackZephyr, I started my journey on 07/14/23
+- 👀 I’m currently working on a web app for our school's deli
+- 🌱 I’m currently learning to become a Full Stack developer
+- 💞️ I’m looking to collaborate on projects with others that have diverse skillsets ranging various team sizes
+- 📫 How to reach me FullStackZephyr@gmail.com
